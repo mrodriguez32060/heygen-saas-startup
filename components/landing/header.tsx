@@ -19,7 +19,7 @@ export async function Header() {
     <header className="border-b sticky top-0 bg-white z-50">
       <div className="container mx-auto px-4 py-4 flex items-center justify-between">
         <Link href="/" className="text-2xl font-bold">
-          YourBrand
+          Sample SaaS Brand
         </Link>
 
         <nav className="hidden md:flex items-center space-x-8">

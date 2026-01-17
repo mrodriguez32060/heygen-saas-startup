@@ -104,7 +104,7 @@ export function Footer() {
 
         <div className="flex flex-col md:flex-row justify-between items-center text-sm text-gray-600">
           <div className="mb-4 md:mb-0">
-            <p>&copy; {new Date().getFullYear()} YourBrand. All rights reserved.</p>
+            <p>&copy; {new Date().getFullYear()} Sample SaaS Brand. All rights reserved.</p>
           </div>
           <div className="flex items-center space-x-6">
             <Link href="/status" className="hover:text-gray-900 transition-colors">
